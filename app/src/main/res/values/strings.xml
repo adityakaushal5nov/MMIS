@@ -1,0 +1,182 @@
+<resources xmlns:xsl="http://schemas.android.com/tools">
+    <string name="app_name">MMIS_ver2</string>
+    <string name="title_activity_splash">MMIS_ver2</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_create_order">Create Order</string>
+    <string name="action_share">Share</string>
+    <string name="title">MMIS</string>
+
+    <string-array name="titles">
+        <item>Home</item>
+        <item>AFRES</item>
+        <item>PRIME</item>
+        <item>Traffic Management System</item>
+        <item>Implementation of MIS</item>
+        <item>Fuel Accounting System</item>
+        <item>Web Designing</item>
+        <item>Extra</item>
+    </string-array>
+
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="hello_blank_fragment"></string>
+
+    <string name="write">\n
+      <center> <b> MMIS</b><i> (Materials Management Information System): </i> </center> \n\n
+
+        <p>  \t Materials Management Information System was developed at Central Railway in 1998 initially for COS
+            office, Stores A/c. office and five major depots of the C.Rly viz. CRD, PR, MTN, JHS and VVH. Since
+            then, the system has undergone several customization and is now successfully implemented on all Stores
+            Depot, Divisions &amp; Stores finance branch. The field units (Depots &amp; Divisions) are depots in
+            Central Railway, 14 depots are connected online to the Centralized connected to server at Hqtrs
+            through railnet.</p>\n\n
+
+         <p>   With implementation of MMIS, the quality of work and output has improved, flow of information is
+            very quick. There has been transparency in the working and as per CVC guidelines high value
+            purchase, single tender purchase, sales information etc. has been posted on the net. All this
+            has been possible because of successful implementation of MMIS.</p>\n\n
+
+        The details of all modules implemented under MMIS as below:\n\n
+
+       <p>(a)<b>Purchase Module</b>: The entire process of procurement i.e. from Initiation of Demand to release of
+            purchase order and post purchase activities are fully computerized. This has resulted in
+            saving of lead time of the procurement cycle and also improve availability of the items to
+            the internal users. The information of the system is available on Intranet for managerial
+            decisions. </p>\n\n
+
+        <p>(b)<b>Finance Module</b>: Implemented at Stores A/c. in HQ. Bill passing activities, payments and Stores
+            Monthly Summaries are being generated through MMIS.</p>\n\n
+
+        <p>(c)<b>Depot Module</b>: Implemented in the depots. Sub modules are Ledger Section, Yard, Transaction Module,
+            Receiving Section,  Fabrication, Returned Stores, etc. Here again the entire depot working
+            is computerized and data is transferred to and fro depot electronically.</p>\n\n
+
+        <p>(d)<b>Uniform Module</b>: This module facilitated for monitoring of uniform supply to
+            the railway employees.</p>\n\n
+
+        <p>(e)<b>Sales Module</b>: This module for monitoring of sale activity (disposal of
+            scrap) of the railway.</p>\n\n
+
+        <p>(f)<b>LP Module</b>: This module designed, developed and implemented in Divisions &amp;
+            depot for petty purchase activities.</p>\n\n
+
+
+        <p> Indentor and Vendor related information is also available on both Internet
+            (www.cr.indianrailways.gov.in and on Intranet of the railway.\n The site contains static
+            information viz. Vendor Guide, Indenters Guide, Information regarding Materials Management
+            Department, SOPGEN etc. and dynamic information like Stock Position, Non-Stock Demand
+            Information, Vendor Bill Position, Vendor Registration Status, Vendor Information, Auction
+            Catalogue, Auction Program and various other reports for both Indenters and Vendors.</p>\n"
+    </string>
+
+
+    <string name="afres">
+              \n <B> Advanced Finance and Railway Earning And Expenditure System (AFRES)</B>\n
+
+<p>AFRES is an integrated system that covers the working of the accounts office at the zone
+level and at the division level. The system handles payments made by the Railways, bookkeeping
+ and accounting of railway earnings apart from regular finance and accounts functions. A number
+ of associated activities are also covered. It covers the PF, Pension, Internal Check, Suspense, Book,
+  Cash and Pay and Traffic modules.</p>
+       \n The followings are modules of AFRES:\n
+
+
+(a) PF.\n
+(b) Pension Module.\n
+(c) Internal Check.\n
+(d) Books Module.\n
+(e) Suspense Module.\n
+(f) Pay Module.\n
+(g) Cash Module.\n
+(h) Traffic Module.\n
+(i) Bank Guarantee Module\n
+(j) New Pension Scheme Module\n
+(k) Remittance in Bank Module.\n
+
+   </string>
+
+    <string name="prime">
+        \n
+        <b>Payroll and Related Independent Module (PRIME)</b>:\n\n
+        <p>This module covers most of the activities of the working of branch. The application was developed
+        by the same vendor under guidance of Southern Railway and now being adopted by all other railways.\n
+        </p>
+        The main modules under this package are:\n\n
+
+    Payroll for open line staff.\n
+    Payroll for workshop staff.\n
+    Leave modules.\n
+    Income Tax Module.\n
+    PLB.\n
+    Supplementary Bill preparation.\n
+    Career Events Modules.\n
+    Welfare Module.\n
+    Quarters Module.\n
+    Pass Module\n
+    Cadre (Book of Sanctions).\n
+    Settlement."
+    </string>
+
+
+    <string name="traffic">\n \t
+        <b><center>Traffic Management System \n</center></b><p>
+        Traffic application is the oldest application introduced in Indian Railways
+        computer system in 1967. It was running in Auto Coder language from 1967 to 1985. In 1986
+        it was converted to COBOL. The followings are module of traffic management system:Traffic application is the oldest application introduced in Indian Railways
+        computer system in 1967. It was running in Auto Coder language from 1967 to 1985. In 1986
+        it was converted to COBOL.\n</p>
+
+        Traffic application: The Traffic application broadly covers the following:\n
+
+        a. Freight (General Goods, Coal, CONCOR)\n
+        b. PCT (Passenger Classifications (manual), local/foreign)\n
+        c. PRS (Passenger Reservation System)\n
+        d. UTS (Unreserved Ticketing System)\n
+        e. BPT/EFT Blank Paper Ticket/ Extended Fare Ticket)\n
+        f.  Season (Computerized and Centralized)\n
+        g. Military (Manual Warrant)\n
+        h. Non-Military force/Military (PRS and Manual)\n
+        i.  Card Vending Machine Ticket (CVM) (proposed).\n
+        j.  Engine and EMU Operating Reports.\n
+    </string>
+
+    <string name="fuel">
+        \n<b><center>Fuel Accounting System\n</center></b>
+        <p>The Fuel Accounting System keeps track of the Accounts of High Speed Diesel
+         (HSD) oil receipt &amp; issued to locos and other purpose. High Speed Diesel oil being a very
+         sensitive item needs to be closely monitored as it is costly and its consumption is very high.\n</p>
+
+       <p>This was processed in COBOL till 31.March 2007. Now it is switched over to ORACLE-D2K based (RDBMS)
+           system.The migration from COBOL to ORACLE was done in-house by IT Center. The data entry of this
+           application is being done by the users from fueling points itself through Railnet.</p>
+    </string>
+
+    <string name="web">
+        \n<b><center>Web Designing\n</center></b>
+       <p> IT Center has designed in-house website which covers information about
+        IT Center, Training Programmes, Library, MMIS, MIS, Traffic etc. Various useful programs
+         are developed for MMIS information Like Stock &amp; dues, consumption pattern, inventory,
+         Purchases, vendor and is updated regularly. The website also provides useful downloads
+         for the computers, telephone numbers of important services etc. Further additional useful
+         information pages are continuously developed in-house and provided on website to make it more
+          and more useful and user friendly.</p>
+    </string>
+
+    <string name="Mis">\n
+        <b><center>Implementation of MIS\n</center></b>
+        IT centre is also providing assistance to other department for implementation
+         of following modules for internal use:\n
+
+(a) <b>Electrical MIS (EMIS)</b>: Non-Traction Energy Management module for General Services customized
+ Central Railway has been implemented and successfully utilized on all the divisions.\n
+
+ Assets Management module for General Services customized by Central Railway has been implemented
+ and successfully used on all the divisions.\n
+
+(b)<b>S&amp;T MIS</b>: Application for Signaling and Telecom activities originally developed by Southern Railway
+ has been successfully customized and replicated on all the divisions of C.Rly.\n
+
+Integrated Zonal Database  of all the divisional S&amp;T MIS data of BB, BSL, NGP, PA and SUR divisions is
+ deployed in centralized database server (Sun ? RISC) kept at BSL Division.
+    </string>
+</resources>

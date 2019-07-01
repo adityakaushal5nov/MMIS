@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:checked="false"
+            android:title="home"
+             />
+
+        <item
+            android:id="@+id/sis"
+            android:checked="false"
+            android:title="AFRES"
+            />
+
+        <item
+            android:id="@+id/cr"
+            android:checked="false"
+            android:title="PRIME"
+             />
+
+        <item
+            android:id="@+id/ap"
+            android:checked="false"
+            android:title="Traffic Management System"
+             />
+
+        <item
+            android:id="@+id/info"
+            android:checked="false"
+            android:title="Implementation of MIS"
+             />
+        <item
+            android:id="@+id/oi"
+            android:checked="false"
+            android:title="Fuel Accounting System"
+          />
+        <item
+            android:id="@+id/ean"
+            android:checked="false"
+            android:title="Web Designing"
+           />
+
+    </group>
+</menu>
